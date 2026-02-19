@@ -4,7 +4,7 @@
 
 ---
 
-## Table of Contents
+## 🪜 Table of Contents
 
 - Project Overview
 - Features
@@ -22,13 +22,13 @@
 
 ---
 
-## Project Overview
+## 🌄 Project Overview
 
 This repository implements a small web service that accepts chat requests, maintains conversation history, and forwards prompts to a language model pipeline. It is intended as a starting point for building a diet-focused conversational assistant and for experimenting with model-driven chat flows.
 
 ---
 
-## Features
+## 🔑 Features
 
 - **Conversational API** for diet and nutrition questions  
 - **Persistent chat history** stored in MongoDB  
@@ -38,7 +38,7 @@ This repository implements a small web service that accepts chat requests, maint
 
 ---
 
-## Repository Structure
+## 🪜 Repository Structure
 
 **Top-level files**
 
@@ -56,7 +56,7 @@ This repository implements a small web service that accepts chat requests, maint
 
 ---
 
-## Requirements
+## 🔐 Requirements
 
 - **Python 3.10+** (or compatible)  
 - **MongoDB** instance (Atlas or self-hosted)  
@@ -65,7 +65,7 @@ This repository implements a small web service that accepts chat requests, maint
 
 ---
 
-## Installation
+## 🧑‍🏫 Installation
 
 ```bash
 # create and activate virtual environment
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## Configuration
+## 📃  Configuration
 Create a .env file or set environment variables required by the app. The code references the following environment variables:
 
 - GROQ_API_KEY — API key for the model provider (if applicable)
@@ -97,7 +97,7 @@ Create a .env file or set environment variables required by the app. The code re
 
 ---
 
-## Running Locally
+## 🏃‍♂️‍➡️ Running Locally
 
 ```bash
 # ensure env vars are set
@@ -120,13 +120,13 @@ Open http://localhost:8000 for the health check and POST to /chat with JSON payl
 }
 ```
 ---
-## Deployment
+## ✈️ Deployment
 - This project is deployable to Render and similar PaaS providers.
 
 - Live model URL ([ LIVE WEBPAGE URL](https://ai-diet-chatbot.onrender.com/docs#/default/chat_chat_post)]  
 <RENDER_APP_URL>
 
-### Render deployment notes
+###  Render deployment notes
 - Set the environment variables in the Render dashboard (GROQ_API_KEY, MONGO_URI, PORT).
 
 - Use a web service with the appropriate start command (for example python main.py or gunicorn main:app depending on your framework).
@@ -137,7 +137,7 @@ Open http://localhost:8000 for the health check and POST to /chat with JSON payl
 
 ---
 
-## Security and Secrets
+## 🔐 Security and Secrets
 
 - Never commit secrets (API keys, DB credentials) to the repository. Use environment variables or a secrets manager.
 
@@ -151,24 +151,8 @@ Open http://localhost:8000 for the health check and POST to /chat with JSON payl
 
 ---
 
-## Suggested Improvements
-- Add detailed README examples for request/response payloads.
 
-- Add unit tests and integration tests for the chat flow.
-
-- Add CI (GitHub Actions) to run linting and tests on PRs.
-
-- Add rate limiting and authentication for the API.
-
-- Add structured logging and monitoring for production deployments.
-
-- Move secrets to a secrets manager and enable automatic rotation.
-
-- Add input validation and content moderation before sending prompts to the LLM.
-
----
-
-## Contributing
+## 🛜 Contributing
 Contributions are welcome. Suggested workflow:
 
 1. Fork the repository.
@@ -182,7 +166,7 @@ Contributions are welcome. Suggested workflow:
 Please follow the repository’s code style and include tests for new behavior.
 
 ---
-## License
+## 📃 License
 - This project is licensed under the Apache License 2.0.
 ---
 
