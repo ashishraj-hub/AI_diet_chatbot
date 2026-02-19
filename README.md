@@ -123,7 +123,7 @@ Open http://localhost:8000 for the health check and POST to /chat with JSON payl
 ## ✈️ Deployment
 - This project is deployable to Render and similar PaaS providers.
 
-- Live model URL [ LIVE WEBAPP URL](https://ai-diet-chatbot.onrender.com/docs#/default/chat_chat_post)]  
+- Live model URL:-  [ LIVE WEBAPP URL](https://ai-diet-chatbot.onrender.com/docs#/default/chat_chat_post)  
 - Try the live model 👆
 
 ---
