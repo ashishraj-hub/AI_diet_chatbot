@@ -1,4 +1,4 @@
-# AI Diet Chatbot
+# AI Diet Chatbot 🍉🍇
 
 **AI Diet Chatbot** is a lightweight Python-based conversational assistant that helps users with diet and nutrition guidance by combining a language model with a simple chat history store. The project includes a minimal web API and example code to run locally and deploy to a cloud host.
 
@@ -192,9 +192,9 @@ Please follow the repository’s code style and include tests for new behavior.
 
 Name: **Ashish Raj**
 
-📌GitHub: [Ashish Raj](https://github.com/ashishraj-hub)
+📌GitHub: [Github Profile Link](https://github.com/ashishraj-hub)
 
-📌LinkedIn: [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/)
+📌LinkedIn: [Linkedin Profile Link](https://www.linkedin.com/in/ashish-raj-ashishraj/)
 
 ---
 ## 📬 Contact
