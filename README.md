@@ -186,9 +186,17 @@ Please follow the repository’s code style and include tests for new behavior.
 - This project is licensed under the Apache License 2.0.
 ---
 
-## Contact
- 📌 GitHub  
-Profile: https://github.com/ashishraj-hub (github.com in Bing)
+---
 
-📌 LinkedIn  
-Profile: https://www.linkedin.com/in/ashishraj-hub (linkedin.com in Bing)
+## 👤 Author
+
+Name: **Ashish Raj**
+
+📌GitHub: [Ashish Raj](https://github.com/ashishraj-hub)
+
+📌LinkedIn: [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/)
+
+---
+## 📬 Contact
+
+If you have feedback, suggestions, or collaboration ideas, feel free to connect on LinkedIn.
