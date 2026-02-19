@@ -123,31 +123,8 @@ Open http://localhost:8000 for the health check and POST to /chat with JSON payl
 ## ✈️ Deployment
 - This project is deployable to Render and similar PaaS providers.
 
-- Live model URL ([ LIVE WEBPAGE URL](https://ai-diet-chatbot.onrender.com/docs#/default/chat_chat_post)]  
-<RENDER_APP_URL>
-
-###  Render deployment notes
-- Set the environment variables in the Render dashboard (GROQ_API_KEY, MONGO_URI, PORT).
-
-- Use a web service with the appropriate start command (for example python main.py or gunicorn main:app depending on your framework).
-
-- Ensure your MongoDB Atlas IP access list allows Render’s outbound IPs or use VPC peering if required.
-
-- If using gunicorn, example start command: gunicorn main:app --bind 0.0.0.0:$PORT
-
----
-
-## 🔐 Security and Secrets
-
-- Never commit secrets (API keys, DB credentials) to the repository. Use environment variables or a secrets manager.
-
-- Rotate keys regularly and restrict scopes where possible.
-
-- Validate and sanitize user inputs before sending them to any external service.
-
-- Limit stored PII in chat history; consider hashing or redacting sensitive fields.
-
-- Use TLS for all network traffic in production.
+- Live model URL [ LIVE WEBAPP URL](https://ai-diet-chatbot.onrender.com/docs#/default/chat_chat_post)]  
+- Try the live model 👆
 
 ---
 
