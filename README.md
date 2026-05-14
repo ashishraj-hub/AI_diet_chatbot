@@ -123,7 +123,7 @@ Open http://localhost:8000 for the health check and POST to /chat with JSON payl
 ## ✈️ Deployment
 - This project is deployable to Render and similar PaaS providers.
 
-- Live model URL:-  [ LIVE WEBAPP URL](https://ai-diet-chatbot.onrender.com/docs#/default/chat_chat_post)  
+- 🌐 Live model URL:-  [ LIVE WEBAPP URL](https://ai-diet-chatbot.onrender.com/docs#/default/chat_chat_post)  
 - Try the live model 👆
 
 ---
@@ -153,11 +153,22 @@ Please follow the repository’s code style and include tests for new behavior.
 
 Name: **Ashish Raj**
 
-📌GitHub: [Github Profile Link](https://github.com/ashishraj-hub)
+📌 - GitHub: [Github Profile](https://github.com/ashishraj-hub)
 
-📌LinkedIn: [Linkedin Profile Link](https://www.linkedin.com/in/ashish-raj-ashishraj/)
+📌 - LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/ashish-raj-ashishraj/)
 
 ---
 ## 📬 Contact
 
 If you have feedback, suggestions, or collaboration ideas, feel free to connect on LinkedIn.
+
+---
+
+## ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Data Science or AI/ML
+
+---
